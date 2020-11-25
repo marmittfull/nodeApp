@@ -2,7 +2,7 @@
 
 ### What it does?
 
-Simulating a backend node app using routes & validation middlewares
+Backend node app using routes & validation middlewares
 
 ### Technologies
 
